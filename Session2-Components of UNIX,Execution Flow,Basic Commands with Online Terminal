@@ -26,4 +26,21 @@ cal -> to display calculator
 
 Todo  a big task
 -----------------
-multiple commands
+
+test.sh file
+------------
+cal
+date
+echo "Hello Friends Welcome to unix world!"
+
+after 3 commands => chmod u+x test.sh
+multiple commands is runned at the once with the help of shell script i.e. test.sh
+
+4 components hierarchy
+----------------------
+1. user/applications
+2. shell
+3. kernel
+4. hardware
+
+user/application --> Shell --> Kernel --> Hardware
