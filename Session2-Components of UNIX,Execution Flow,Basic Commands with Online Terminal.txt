@@ -68,3 +68,20 @@ sudo -i ==> switch to superuser
 Online UNIX Terminal:
 ---------------------
 http://www.masswerk.at/jsuix
+
+The most commonly used basic commands:
+--------------------------------------
+
+1. pwd --> present working directory
+2. ls --> list out all files under directories
+3. mkdir --> create/make a directory
+4. cd --> change directory
+5. touch --> to create an empty file
+6. rmdir --> remove directory
+7. rm --> to remove a file
+8. cal --> display current month calendar
+9. date --> display current date and time
+10. help --> to display list of available commands
+11. clear --> to clear the terminal
+12. exit --> to logout session
+13. hello --> to display brief system information
