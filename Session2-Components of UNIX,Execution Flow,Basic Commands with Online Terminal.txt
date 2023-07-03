@@ -58,3 +58,7 @@ command execution flow
 4. if it is proper shell interprets that command into kernel understandable form and handover to the kernel
 5. kernel executes that command and perform required action 
 6. again $ prompt will be display to the terminal,which indicates ready for the next command.
+
+two typer of users in linux:
+1. normal user ==> $ prompt
+2. super user/root users/admin user ==> # prompt
