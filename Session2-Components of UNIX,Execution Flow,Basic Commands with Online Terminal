@@ -1,0 +1,29 @@
+Components of Unix:
+--------------------
+2 important components:
+    Shell
+    Kernel
+
+1. Shell:
+---------
+It is outer layer of unix oeprating system.
+Shell reads commands provided by the users.
+Shell will check whether is it valid command or not.
+Shell will check whether is it properly used or not.
+if everything is proper, then shell interprets(converts) that command into kernel understandable format and handover that to the kernel.
+Shell acts as interface between user and kernel.
+
+2. Kernel:
+----------
+It is the core component of UNIX operating system.
+It is repsonsible to execute our coomands with the help of Hardware components.
+
+Memory allocation and process allocation will takes care by kernel.
+It acts as interface between shell and hardware components.
+
+date -> to display date
+cal -> to display calculator
+
+Todo  a big task
+-----------------
+multiple commands
