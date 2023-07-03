@@ -46,3 +46,15 @@ multiple commands is runned at the once with the help of shell script i.e. test.
 user/application --> Shell --> Kernel --> Hardware
 
 command execution flow
+----------------------
+1. end user types a command on the terminal
+2. command will be submitted to the shell
+3. shell checks whether this command is valid or not and whether it is properly used or not 
+    a. if it is not proper display, error message to the terminal
+
+    goes to 6 i.e.
+    6. again $ prompt will be display to the terminal,which indicates ready for the next command.
+
+4. if it is proper shell interprets that command into kernel understandable form and handover to the kernel
+5. kernel executes that command and perform required action 
+6. again $ prompt will be display to the terminal,which indicates ready for the next command.
