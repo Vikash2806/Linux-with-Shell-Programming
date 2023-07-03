@@ -62,3 +62,9 @@ command execution flow
 two typer of users in linux:
 1. normal user ==> $ prompt
 2. super user/root users/admin user ==> # prompt
+
+sudo -i ==> switch to superuser
+
+Online UNIX Terminal:
+---------------------
+http://www.masswerk.at/jsuix
