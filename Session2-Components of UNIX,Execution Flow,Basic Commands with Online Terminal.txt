@@ -85,3 +85,6 @@ The most commonly used basic commands:
 11. clear --> to clear the terminal
 12. exit --> to logout session
 13. hello --> to display brief system information
+
+user home directory for durga : /home/durga
+user home directory for ravi : /home/ravi
